@@ -1,0 +1,28 @@
+name: KNAC
+favicon: null
+layout_spectrum: 0.27211170294322073
+typography_spectrum: 0.2893941530492157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9702331312000751
+  lightness: 0.09534081723541021
+  saturation: 0.3619647338055074
+  rhythmicContrast: 0.007189983036369085
+purpose: []
